@@ -1,4 +1,4 @@
-**Vehicle Detection Project**
+# Udacity CarND Project 5 - Vehicle Detection
 
 The goals / steps of this project are the following:
 
